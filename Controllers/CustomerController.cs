@@ -25,7 +25,9 @@ namespace WebApplication2.Controllers
 
         [HttpGet("id")]
 
-        public IActionResult Get(string id) { 
+        public IActionResult Get(string id) {
+
+
 
             Customer  l= _customerService.GetCustomerById(id);    
             return Ok(l);

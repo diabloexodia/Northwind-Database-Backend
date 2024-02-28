@@ -892,11 +892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DHPRASA\\Desktop\\NET Projects\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\DHPRASA\\Desktop\\Weather-Forcasting\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\DHPRASA\\Desktop\\NET Projects\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\DHPRASA\\Desktop\\Weather-Forcasting\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\DHPRASA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DHPRASA\\Desktop\\NET Projects\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\DHPRASA\\Desktop\\Weather-Forcasting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DHPRASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
